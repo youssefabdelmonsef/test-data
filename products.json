@@ -1,0 +1,25 @@
+[
+    {
+        "category": "Phones",
+        "brand": "Apple",
+        "model": "iPhone 12",
+        "variant": "128 GB"
+
+    },
+
+    {
+        "category": "Watches",
+        "brand": "Apple",
+        "model": "Series 7",
+        "variant": "44 mm"
+
+    },
+
+    {
+        "category": "Computers",
+        "brand": "Apple",
+        "model": "Macbook Pro",
+        "variant": "14 inch"
+
+    }
+]
