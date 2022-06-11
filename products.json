@@ -77,5 +77,20 @@
         "model": "Mi Band 4",
         "variant": "band",
         "imgUrl": "https://i.pinimg.com/474x/22/ff/d6/22ffd657d7bd9e653872fef2f5287a9f.jpg"
+    },
+    {
+        "category": "Accessories",
+        "brand": "Apple",
+        "model": "Airpods",
+        "variant": "case",
+        "imgUrl": "https://i.pinimg.com/474x/eb/81/1c/eb811c1f73554a3d37e5284c19f01166.jpg"
+    },
+    ,
+    {
+        "category": "Accessories",
+        "brand": "Apple",
+        "model": "iPhone 12 case",
+        "variant": "case",
+        "imgUrl": "https://i.pinimg.com/474x/06/6d/cd/066dcd3b9a8df40e4ae532064ba811c8.jpg"
     }
 ]
