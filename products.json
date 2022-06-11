@@ -11,15 +11,17 @@
         "category": "Phones",
         "brand": "Huawei",
         "model": "Mate 40 Pro",
-        "variant": "256 GB"
+        "variant": "256 GB",
+        "imgUrl": "https://i.pinimg.com/564x/f1/5d/6c/f15d6cd5e32c84b5b83b5334d632111d.jpg
 
     },
     
     {
         "category": "Phones",
         "brand": "Samsung",
-        "model": "Note 10",
-        "variant": "128 GB"
+        "model": "Note 10 Plus",
+        "variant": "128 GB",
+        "imgUrl": "https://i.pinimg.com/564x/3b/7c/d3/3b7cd382bef6ec91f506975969239a1e.jpg"
 
     },
 
@@ -27,7 +29,8 @@
         "category": "Watches",
         "brand": "Apple",
         "model": "Series 7",
-        "variant": "44 mm"
+        "variant": "44 mm",
+        "imgUrl": "https://i.pinimg.com/564x/1f/ca/16/1fca16c497942b6774d4543a7cb0e9f5.jpg"
 
     },
     
@@ -35,7 +38,8 @@
         "category": "Watches",
         "brand": "Samsung",
         "model": "Galaxy watch 4",
-        "variant": "44 mm"
+        "variant": "44 mm",
+        "imgUrl": "https://i.pinimg.com/564x/a8/8a/d1/a88ad13fa013d6f6ea6dd5d41f6b0296.jpg"
 
     },
 
@@ -43,7 +47,21 @@
         "category": "Computers",
         "brand": "Apple",
         "model": "Macbook Pro",
-        "variant": "14 inch"
-
+        "variant": "14 inch",
+        "imgUrl": "https://i.pinimg.com/474x/a0/6d/32/a06d32691a93dc55a5df5b47f3534095.jpg"
+    },
+    {
+        "category": "TV",
+        "brand": "LG",
+        "model": "Smart TV 4k",
+        "variant": "65 inch",
+        "imgUrl": "https://i.pinimg.com/474x/ea/40/10/ea4010ba25b65e06e23cbb839048931d.jpg"
+    },
+    {
+        "category": "Phones",
+        "brand": "Apple",
+        "model": "iPhone 13 Pro Max",
+        "variant": "265 GB",
+        "imgUrl": "https://i.pinimg.com/474x/5c/90/b9/5c90b9b58c07761e9bcde348e433d0a8.jpg"
     }
 ]
