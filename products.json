@@ -63,5 +63,33 @@
         "model": "iPhone 13 Pro Max",
         "variant": "265 GB",
         "imgUrl": "https://i.pinimg.com/474x/5c/90/b9/5c90b9b58c07761e9bcde348e433d0a8.jpg"
+    },
+    {
+        "category": "Phones",
+        "brand": "Xiaomi",
+        "model": "Note 9",
+        "variant": "128 GB",
+        "imgUrl": "https://www.pinterest.com/pin/1051168369249235421/"
+    },
+    {
+        "category": "Watches",
+        "brand": "Xiaomi",
+        "model": "Mi Band 4",
+        "variant": "band",
+        "imgUrl": "https://www.pinterest.com/pin/783274560191711074/"
+    },
+    {
+        "category": "xx",
+        "brand": "Appxxle",
+        "model": "xx",
+        "variant": "xx",
+        "imgUrl": "xx"
+    },
+    {
+        "category": "xx",
+        "brand": "Appxxle",
+        "model": "xx",
+        "variant": "xx",
+        "imgUrl": "xx"
     }
 ]
